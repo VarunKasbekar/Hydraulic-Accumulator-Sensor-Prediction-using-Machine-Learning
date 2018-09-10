@@ -21,7 +21,7 @@ CE	Cooling efficiency (virtual)	%	1 Hz
 CP	Cooling power (virtual)	kW	1 Hz 
 SE	Efficiency factor	%	1 Hz 
 
-The target condition values are cycle-wise annotated in â€˜profile.txtâ€˜ (tab-delimited). As before, the row number represents the cycle number. The columns are 
+The target condition values are cycle-wise annotated in profile.txt (tab-delimited). As before, the row number represents the cycle number. The columns are 
 
 1: Cooler condition / %: 
 3: close to total failure 
